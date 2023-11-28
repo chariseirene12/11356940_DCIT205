@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: white;
+    background-color:#232559;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -119,9 +119,11 @@ section{
     align-items: center;
     min-height: 400px;
     padding: 100px 20vw ;
+    background-image: url(FRONT\ VIEW.jpg);
+    background-size: cover;
 }
 h1{
-    font-size: 90px;
+    font-size: 30px;
     text-align: center;
 }
 
