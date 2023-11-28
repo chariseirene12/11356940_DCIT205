@@ -123,11 +123,13 @@ section{
 h1{
     font-size: 90px;
     text-align: center;
+    color: #232559;
 }
 
 p{
     text-align: center;
     font-size: 20px;
+    color: black;
 }
 
 /* footer */
